@@ -231,9 +231,6 @@ section, h2 {
   width: 62px;
 }
 
-/*header close*/
-
-
 /******** banner *********/
 
 .banner {
@@ -261,7 +258,6 @@ section, h2 {
 
 .collection {
   font-size: 1.25rem;
-  /*margin-bottom: 1.5rem;*/
 }
 
 .season {
@@ -290,12 +286,10 @@ section, h2 {
 
 .product-list {
   color: #969696;
-  /*margin-top: 3rem;*/
   list-style: none
 }
 .product-list li {
   width: 25%;
-  /*padding: 0, 2rem;*/
   text-align: center;
   float: left;
 
@@ -304,7 +298,6 @@ section, h2 {
 .product-type {
   text-transform: uppercase;
   font-size: 0.75rem;
-  /*margin-bottom: .75rem;*/
 }
 
 .product-type,
